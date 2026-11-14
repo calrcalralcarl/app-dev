@@ -13,13 +13,6 @@ Key Characteristics
 * Unique supernatural powers (*Hamon* and *Stands*).
 * Distinctive art style and memorable character poses.
 
-Main Parts Comparison
-
-| Part | Protagonist | Main Antagonist | Power System |
-| Part 1 | Jonathan Joestar | Dio Brando | Hamon |
-| Part 2| Joseph Joestar | The Pillar Men | Hamon |
-| Part 3 | Jotaro Kujo | DIO | Stands |
-
  Series Progress & Checklist
 
 - [x] Phantom Blood & Battle Tendency completed
